@@ -1,4 +1,4 @@
-package com.company;
+package lesson0710;
 
 public class Main {
 
@@ -9,7 +9,7 @@ public class Main {
             }else if(i%3==0){
                 System.out.println("Fizz");
             }else if(i%5==0){
-                System.out.println("Bizz");
+                System.out.println("Buzz");
             }else{
                 System.out.println(i);
             }
